@@ -1,0 +1,4 @@
+INSERT INTO rechnungen (faelligkeit, rechnungsbetrag, rechnungssteller, rechnungsempfaenger, bankverbindung, rechnungsnummer) VALUES
+                                                                                                                                  ('2023-01-15', 100.00, 'Strom AG', 'Max Mustermann', 'DE89 3704 0044 0532 0130 00', '20230001'),
+                                                                                                                                  ('2023-02-20', 250.75, 'Internet GmbH', 'Max Mustermann', 'DE89 3704 0044 0532 0130 00', '20230002'),
+                                                                                                                                  ('2023-03-10', 89.99, 'Versicherungen KG', 'Max Mustermann', 'DE89 3704 0044 0532 0130 00', '20230003')
